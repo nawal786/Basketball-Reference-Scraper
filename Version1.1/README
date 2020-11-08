@@ -1,0 +1,22 @@
+N. Valliani
+Stats Scraper for Basketball-Reference.com
+
+Version 1.1 (11/8/2020)
+===================
+In all functions, added a column to the returned Pandas Dataframe to report the year of the data (season end year).
+Cleaned up some stray unused code laying around from 1.0
+
+
+Version 1.0 (8/27/2020)
+===================
+Statistics - how exciting.
+
+This is a simple Python program to scrape data from basketball-reference.com for any player, active or retired, and for any season that basketball-reference.com has data for.
+
+Currently supports the following data
+-per game season stats (think field goals made, field goal attempts, FG%, free throws made/attempted, blocks, steals, opponents, home/away games, etc.) for regular season and playoffs
+-shot data for different splits (regular season/playoffs, 2s/3s, distance away from rim, vs. different teams, games in different months, shot types, etc.)
+
+See examples.py to see it in action
+
+-Nawal
