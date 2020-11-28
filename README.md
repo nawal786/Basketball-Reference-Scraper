@@ -44,8 +44,4 @@ in every year he's played against them in his career:
 
 ![](https://github.com/nawal786/Basketball-Reference-Scraper/blob/master/examples/LBJ_HeatMap_Career.png)
 
-In the early portion of LeBron's career, (2004- ~2008), there are much more sub-50% performances. As he continued to evolve as a player, LeBron's performance seems to have
-improved, with more >50% FG performances in 2009 and 2010. From 2011-2014, however, LeBron seems to have hit the prime of his career, with incredibly efficient
-performances against many of the teams in the league. Coincidentally, this is also the period of time where he joined Dwyane Wade and Chris Bosh to form "The Big Three" in
-Miami to win his first championship. Looking at the heatmap, transitioning to the Miami Heat was a good move for LeBron, as he now had a reliable cast in Wade and Bosh and
-no longer needed to shoulder the burden of scoring to keep his team's season alive. LeBron went to the finals four times with the Heat, winning two championships.
+In the early portion of LeBron's career (2004- ~2008), there are many sub-50% FG performances. As he continued to evolve as a player, LeBron's performance seems to have improved, with more >50% FG performances in 2009 and 2010. From 2011-2014, however, LeBron seems to have hit the prime of his career, with incredibly efficient performances against many of the teams in the league. Coincidentally, this is also the period of time where he joined Dwyane Wade and Chris Bosh to form "The Big Three" in Miami to win his first championship. Looking at the heatmap, transitioning to the Miami Heat was a good move for LeBron, as he now had a reliable cast in Wade and Bosh and no longer needed to shoulder the burden of scoring to keep his team's season alive. LeBron went to the finals four times with the Heat, winning two championships.
